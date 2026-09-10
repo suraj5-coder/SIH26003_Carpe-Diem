@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MindMate</string>
+    <string name="notification_channel_reminders">Daily reminders</string>
+    <string name="notification_channel_alerts">Safety alerts</string>
+    <string name="notification_channel_sos">SOS</string>
+    <string name="medicine_reminder">Time for your medicine.</string>
+    <string name="water_reminder">Would you like some water?</string>
+    <string name="safe_area_warning">Please return to your safe area.</string>
+</resources>
